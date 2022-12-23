@@ -1,0 +1,8 @@
+body h1:hover{
+	transition: all .3s;
+	list-style: none;
+	background-color: black;
+	color: white;
+	font-style: italic;
+	font-size:150%;
+}
